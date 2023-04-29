@@ -18,6 +18,11 @@ Here's how you can automate t-rex.
 
 + search anything.
 
+**Or**
+
+Go to this page ["chrome://dino"](chrome://dino)
+
+
 3. Press Ctrl + shift + i.
 
 4. navigate to console (upper right).
@@ -27,5 +32,3 @@ Here's how you can automate t-rex.
 ## Code
 
 To download the text file of code please [click here](https://github.com/nitd27/Automate-tRex/releases/tag/V1)
-
-
