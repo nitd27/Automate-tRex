@@ -2,23 +2,30 @@
 
 Here's how you can automate t-rex.
 
-# Requirments
+## Requirments
 
 • Desktop
 
 • Browser
 
-# How to do it
+## How to do it
 
--1 open your browser.
+1. open your browser.
 
--2 go to this t-rex page.
+2. go to this t-rex page:
 
-• turn off internet.
-• search anything.
++ turn off internet.
 
--3 Press Ctrl + shift + i
++ search anything.
 
--4 navigate to console (upper right)
+3. Press Ctrl + shift + i.
+
+4. navigate to console (upper right).
+
+5. Paste the code.
+
+## Code
+
+To download the text file of code please [click here](https://github.com/nitd27/Automate-tRex/releases/tag/V1)
 
 
